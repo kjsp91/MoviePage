@@ -1,0 +1,36 @@
+.movieblock{
+    border: 1px solid white;
+ 
+    /* padding: 40px; */
+    margin: 40px;
+    text-align: center;
+}
+hr{
+    margin: 0%;
+}
+.movieblock img{
+    width: 280px;
+    height: 300px;
+    margin: 0%;
+}
+.movieblock div{
+    padding: 10px;
+    padding-bottom: 0px;
+}
+.movieblock div h2{
+    margin: 0px;
+    /* color:lightpink; */
+}
+
+.movieblock button{
+    padding: 8px;
+    margin: 15px;
+    background-color: darkgreen;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    border: none;
+    border-radius: 20px;
+}
+
+

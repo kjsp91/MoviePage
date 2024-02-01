@@ -1,0 +1,14 @@
+.nav{
+    background-color: #493e42;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* border:2px solid white; */
+}
+.nav h1{
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+    color:blanchedalmond;
+    font-weight: 400;
+}

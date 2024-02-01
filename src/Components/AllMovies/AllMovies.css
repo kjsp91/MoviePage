@@ -1,0 +1,14 @@
+.movies{
+    color: white;
+}
+.movies h2{
+    text-align: center;
+}
+.moviesdisplay{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.head{
+    color: palevioletred;
+}

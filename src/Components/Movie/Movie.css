@@ -1,0 +1,33 @@
+.eachmovie{
+    margin:  60px;
+    margin-bottom: 40px;
+}
+.eachmovie img{
+    width: 200px;
+    height: 300px;
+    margin-top: 20px;
+    float: left;
+}
+.eachmovie p{
+    color: lavender;
+    font-size: 24px;
+    display: inline-block;
+    width: 800px;
+    margin: 20px 60px;
+}
+.eachmovie span{
+    margin: 0px 60px;
+    font-size: large;
+    font-weight: bold;
+    color: goldenrod;
+}
+a{
+    color: lightblue;
+}
+h2{
+    margin: 20px 40px;
+    color: lightcoral;
+}
+.boldname{
+    color: lightsalmon;
+}
